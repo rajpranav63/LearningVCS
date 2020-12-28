@@ -113,4 +113,4 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
-- [Pranav Raj](https://github.com/rajpranav63)
+- [Pranav RAj](https://github.com/rajpranav63)
