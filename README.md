@@ -112,5 +112,13 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+<<<<<<< HEAD
 - [Pranav RAj](https://github.com/rajpranav63)
+=======
+- [Pranav Raj](https://github.com/rajpranav63)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Akanksha Kashyap](https://github.com/akankshakashyap)
+
+>>>>>>> 3f8f5c59a97f8a1b43ce027cfcfe1dce3b5ba5b5
